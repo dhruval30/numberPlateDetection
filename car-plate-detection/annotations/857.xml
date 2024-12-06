@@ -1,0 +1,23 @@
+<annotation>
+  <folder>images</folder>
+  <filename>857.jpg</filename>
+  <size>
+    <width>821</width>
+    <height>417</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>licence</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>536</xmin>
+      <ymin>202</ymin>
+      <xmax>585</xmax>
+      <ymax>233</ymax>
+    </bndbox>
+  </object>
+</annotation>

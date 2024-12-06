@@ -1,0 +1,16 @@
+
+
+# root dir
+path: /Users/dhruval/Documents/pranavCNN1/datasets/car_plate
+
+# Directories
+train: train/images
+val: validation/images
+test: test/images
+
+# number of class
+nc: 1
+
+# class name
+names: ['licence_plate']
+

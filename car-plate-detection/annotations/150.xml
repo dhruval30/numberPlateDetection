@@ -1,0 +1,23 @@
+<annotation>
+  <folder>images</folder>
+  <filename>150.jpg</filename>
+  <size>
+    <width>409</width>
+    <height>547</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>licence</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>165</xmin>
+      <ymin>318</ymin>
+      <xmax>272</xmax>
+      <ymax>344</ymax>
+    </bndbox>
+  </object>
+</annotation>

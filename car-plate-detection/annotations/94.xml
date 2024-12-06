@@ -1,0 +1,23 @@
+<annotation>
+  <folder>images</folder>
+  <filename>94.jpg</filename>
+  <size>
+    <width>729</width>
+    <height>547</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>licence</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>559</xmin>
+      <ymin>399</ymin>
+      <xmax>647</xmax>
+      <ymax>470</ymax>
+    </bndbox>
+  </object>
+</annotation>
